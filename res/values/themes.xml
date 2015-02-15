@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="ListCalTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/ListCalActionBar</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="ListCalActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/pink</item>
+    </style>
+        
+</resources>

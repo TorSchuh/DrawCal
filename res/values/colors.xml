@@ -1,0 +1,14 @@
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="pink">#e81d62</color>
+    <color name="rose">#fce4ec</color>
+    <color name="cyan">#00bbd3</color>
+    <color name="yellow">#f9cd1c </color>
+    <color name="grey100">#f4f4f4</color>
+    <color name="grey150">#ededed</color>
+    <color name="grey300">#e0e0e0</color>
+    <color name="grey400">#c7c7c7</color>
+    <color name="grey500">#9d9d9d</color>
+    <color name="grey700">#616161</color>
+    <color name="transparent">#80000000</color> 
+</resources>
